@@ -1,10 +1,10 @@
-# BIMCalculator
+# BMICalculator
 
-BIMCalculator package for the Ring programming language
+BMICalculator package for the Ring programming language
 
 ## Install
 
-	ringpm install BIMCalculator
+	ringpm install BMICalculator
 
 ## Author
 
