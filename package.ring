@@ -1,7 +1,7 @@
 aPackageInfo = [
-	:name = "The bimcalculator Package",
-	:description = "Our bimcalculator package using the Ring programming language",
-	:folder = "bimcalculator",
+	:name = "The bmicalculator Package",
+	:description = "Our bmicalculator package using the Ring programming language",
+	:folder = "bmicalculator",
 	:developer = "",
 	:email = "",
 	:license = "MIT License",
